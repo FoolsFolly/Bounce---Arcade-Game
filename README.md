@@ -14,3 +14,5 @@ Copy the entire contents of this file, then in game right click on your programm
 With your link tool connect your screen to the slot named Screen. If you have a databank, connect it to any other slot.
 
 Click the bouncing ball and try to get the high score!
+
+<img src="https://github.com/FoolsFolly/Bounce---Arcade-Game/blob/main/image.png?raw=true"></img>
