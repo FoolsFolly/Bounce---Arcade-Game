@@ -5,7 +5,7 @@ Arcade game for Dual Universe
 Requirement:
 - 1 Programming Board
 - 1 Screen. Preferably Medium.
-- Optional:1 Databank to record top scores.
+- 1 Databank to record top scores.
 
 
 Instructions:
